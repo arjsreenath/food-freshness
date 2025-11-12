@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.h5
+*.tflite
+
+# Dataset
+dataset/
+
+# Android Studio
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+captures/
+outputs/
+*.apk
+*.aab
+
+# System files
+.DS_Store
+Thumbs.db
+
